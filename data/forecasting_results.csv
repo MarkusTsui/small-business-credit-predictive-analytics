@@ -19,22 +19,22 @@ month_date,metric_value,metric_name,series_type,fed_funds_rate
 2015-02-01,6.319883325230919,Default Rate %,Historical,0.11
 2015-03-01,5.7797991282925905,Default Rate %,Historical,0.11
 2015-04-01,6.233933161953727,Default Rate %,Historical,0.12
-2015-05-01,6.440874679789889,Default Rate %,Historical,0.12
-2015-06-01,6.647816197626051,Default Rate %,Historical,0.13
-2015-10-01,7.475582268970698,Default Rate %,Historical,0.12
-2015-11-01,7.355418304323413,Default Rate %,Historical,0.12
-2015-12-01,7.1982549684924875,Default Rate %,Historical,0.24
-2016-01-01,7.811080835603996,Default Rate %,Historical,0.34
-2016-02-01,7.724756129712629,Default Rate %,Historical,0.38
-2016-03-01,8.04867634500427,Default Rate %,Historical,0.36
+2015-05-01,6.449356807931687,Default Rate %,Historical,0.12
+2015-06-01,6.664780453909645,Default Rate %,Historical,0.13
+2015-10-01,7.526475037821482,Default Rate %,Historical,0.12
+2015-11-01,7.449530850156383,Default Rate %,Historical,0.12
+2015-12-01,7.222762645914396,Default Rate %,Historical,0.24
+2016-01-01,7.82292298362644,Default Rate %,Historical,0.34
+2016-02-01,7.648133646567476,Default Rate %,Historical,0.38
+2016-03-01,8.004246284501061,Default Rate %,Historical,0.36
 2016-04-01,5.9317291550083935,Default Rate %,Historical,0.37
 2016-05-01,6.657634991290884,Default Rate %,Historical,0.37
 2016-06-01,7.552320291173794,Default Rate %,Historical,0.38
-2016-07-01,7.863974495217853,Default Rate %,Historical,0.39
-2016-08-01,8.453065134099617,Default Rate %,Historical,0.4
-2016-09-01,9.20409070698088,Default Rate %,Historical,0.4
-2016-10-01,9.079678814082767,Default Rate %,Historical,0.4
-2016-11-01,7.259576747923922,Default Rate %,Historical,0.41
+2016-07-01,7.851458885941645,Default Rate %,Historical,0.39
+2016-08-01,8.434886499402628,Default Rate %,Historical,0.4
+2016-09-01,9.120951751487112,Default Rate %,Historical,0.4
+2016-10-01,9.040590405904059,Default Rate %,Historical,0.4
+2016-11-01,7.236315086782376,Default Rate %,Historical,0.41
 2016-12-01,7.082282832913133,Default Rate %,Historical,0.54
 2017-01-01,6.446457112413426,Default Rate %,Historical,0.65
 2017-02-01,6.9216757741347905,Default Rate %,Historical,0.66
@@ -72,22 +72,22 @@ month_date,metric_value,metric_name,series_type,fed_funds_rate
 2015-02-01,1253590000.0,Portfolio Spend,Historical,0.11
 2015-03-01,1603149600.0,Portfolio Spend,Historical,0.11
 2015-04-01,404742300.0,Portfolio Spend,Historical,0.12
-2015-05-01,453992666.6666667,Portfolio Spend,Historical,0.12
-2015-06-01,503243033.3333333,Portfolio Spend,Historical,0.13
-2015-10-01,700244500.0,Portfolio Spend,Historical,0.12
-2015-11-01,1059215100.0,Portfolio Spend,Historical,0.12
-2015-12-01,1347345600.0,Portfolio Spend,Historical,0.24
-2016-01-01,932091900.0,Portfolio Spend,Historical,0.34
-2016-02-01,1142122200.0,Portfolio Spend,Historical,0.38
-2016-03-01,1353255700.0,Portfolio Spend,Historical,0.36
-2016-04-01,506581500.0,Portfolio Spend,Historical,0.37
+2015-05-01,456873016.6666667,Portfolio Spend,Historical,0.12
+2015-06-01,509003733.3333333,Portfolio Spend,Historical,0.13
+2015-10-01,717526600.0,Portfolio Spend,Historical,0.12
+2015-11-01,1040539800.0,Portfolio Spend,Historical,0.12
+2015-12-01,1305832800.0,Portfolio Spend,Historical,0.24
+2016-01-01,975077700.0,Portfolio Spend,Historical,0.34
+2016-02-01,1151196900.0,Portfolio Spend,Historical,0.38
+2016-03-01,1382400300.0,Portfolio Spend,Historical,0.36
+2016-04-01,503882000.0,Portfolio Spend,Historical,0.37
 2016-05-01,1545932643.0,Portfolio Spend,Historical,0.37
 2016-06-01,1753352600.0,Portfolio Spend,Historical,0.38
-2016-07-01,1120982900.0,Portfolio Spend,Historical,0.39
-2016-08-01,1401621900.0,Portfolio Spend,Historical,0.4
-2016-09-01,1494341600.0,Portfolio Spend,Historical,0.4
-2016-10-01,957575100.0,Portfolio Spend,Historical,0.4
-2016-11-01,1251985500.0,Portfolio Spend,Historical,0.41
+2016-07-01,1093920200.0,Portfolio Spend,Historical,0.39
+2016-08-01,1350024000.0,Portfolio Spend,Historical,0.4
+2016-09-01,1455244000.0,Portfolio Spend,Historical,0.4
+2016-10-01,974306200.0,Portfolio Spend,Historical,0.4
+2016-11-01,1257681800.0,Portfolio Spend,Historical,0.41
 2016-12-01,1707820100.0,Portfolio Spend,Historical,0.54
 2017-01-01,1304229900.0,Portfolio Spend,Historical,0.65
 2017-02-01,1196709100.0,Portfolio Spend,Historical,0.66
@@ -105,15 +105,15 @@ month_date,metric_value,metric_name,series_type,fed_funds_rate
 2019-07-01,1063421900.0,Portfolio Spend,Historical,2.4
 2019-08-01,1068146000.0,Portfolio Spend,Historical,2.13
 2019-09-01,1223570900.0,Portfolio Spend,Historical,2.04
-2019-10-01,6.931878807827496,Default Rate %,Forecast,1.83
-2019-11-01,7.5051454257217145,Default Rate %,Forecast,1.55
-2019-12-01,7.5526097638606275,Default Rate %,Forecast,1.55
-2020-01-01,7.910438784090839,Default Rate %,Forecast,1.55
-2020-02-01,7.774768207864095,Default Rate %,Forecast,1.58
-2020-03-01,8.380830550670545,Default Rate %,Forecast,0.65
-2019-10-01,1400278618.540112,Portfolio Spend,Forecast,1.83
-2019-11-01,1166351555.8022764,Portfolio Spend,Forecast,1.55
-2019-12-01,806914140.1974161,Portfolio Spend,Forecast,1.55
-2020-01-01,991704504.1356767,Portfolio Spend,Forecast,1.55
-2020-02-01,939312457.9669873,Portfolio Spend,Forecast,1.58
-2020-03-01,855404150.1298168,Portfolio Spend,Forecast,0.65
+2019-10-01,6.939712778765342,Default Rate %,Forecast,1.83
+2019-11-01,7.513019570021053,Default Rate %,Forecast,1.55
+2019-12-01,7.557369462366641,Default Rate %,Forecast,1.55
+2020-01-01,7.915901183871634,Default Rate %,Forecast,1.55
+2020-02-01,7.766082931908885,Default Rate %,Forecast,1.58
+2020-03-01,8.391669063950811,Default Rate %,Forecast,0.65
+2019-10-01,1373959421.5430198,Portfolio Spend,Forecast,1.83
+2019-11-01,1470882524.1154103,Portfolio Spend,Forecast,1.55
+2019-12-01,900220758.7155789,Portfolio Spend,Forecast,1.55
+2020-01-01,978169671.0935249,Portfolio Spend,Forecast,1.55
+2020-02-01,784982572.3603601,Portfolio Spend,Forecast,1.58
+2020-03-01,700690168.4049729,Portfolio Spend,Forecast,0.65
