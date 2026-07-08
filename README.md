@@ -85,9 +85,11 @@ After merging FRED monthly rates onto approval month, unemployment and credit ut
 
 ### Sector Utilization Patterns
 
+Disbursed loans only — utilization measured as SBA guaranteed exposure relative to approved amount, which reveals meaningful spread across sectors (unlike binary 0/1 disbursement flags).
+
 ![Plot 2: Utilization by Sector](docs/images/plot2_utilization_boxplot.png)
 
-Retail, Accommodation & Food, and Construction dominate loan volume. Utilization is consistently high across sectors (~0.86–0.89 median), but **Transportation** stood out with the highest default rate in the top-volume group.
+Transportation and Retail sit at the higher end of exposure utilization; Health Care shows a tighter distribution with the lowest default rate among top-volume sectors.
 
 | Sector | Loan Count | Default Rate (%) | Avg Utilization |
 |--------|------------|------------------|-----------------|
